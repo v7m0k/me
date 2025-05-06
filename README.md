@@ -1,49 +1,54 @@
-# 👋 Olá! Eu sou o Arthur
-
-🎓 Estudante de Ciência da Computação na UNIFAI - Adamantina  
-💻 Desenvolvedor com foco em C++, PHP e C#  
-🤖 Entusiasta em automação, robótica e desenvolvimento de sistemas
-
----
-
-## 🛠️ Tecnologias que domino
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+```
+   ___         _   _            _   
+  / _ \ _ __  (_) | | ___  ___ | |_ 
+ | | | | '__| | | | |/ _ \/ __|| __|
+ | |_| | |    | | | |  __/\__ \| |_ 
+  \___/|_|    |_| |_|\___||___/ \__|
+                                   
+:: Arthur :: UNIFAI - CompSci :: C++ | PHP | C#
+```
 
 ---
 
-## 📌 Projeto em Destaque
+## 🛠️ stack
 
-### [🧠 projeto_completo.cpp](https://github.com/v7m0k/aed-cpp/blob/main/projetos/projeto_completo.cpp)
-
-Projeto feito em C++ para simular funcionalidades típicas de um sistema de biblioteca ou gerenciamento de dados.  
-Utiliza conceitos como:
-
-- Manipulação de arquivos
-- Entrada e saída com validação
-- Uso de estruturas condicionais e repetitivas
-- Organização modular
-
-Esse projeto mostra domínio da linguagem C++ aplicado a problemas reais, ideal para fins acadêmicos ou estudos em lógica de programação estruturada.
+![C++](https://img.shields.io/badge/-C++-111?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-111?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-111?style=flat-square&logo=c-sharp&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-111?style=flat-square&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-111?style=flat-square&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-VS-111?style=flat-square&logo=visual-studio&logoColor=white)
 
 ---
 
-## 📈 Estatísticas do GitHub
+## 📂 projeto_em_destaque
 
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v7m0k&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v7m0k&layout=compact&theme=dark)
+[`projeto_completo.cpp`](https://github.com/v7m0k/aed-cpp/blob/main/projetos/projeto_completo.cpp)
+
+> simula funcionalidades de um sistema de biblioteca digital  
+> - leitura e escrita em arquivos  
+> - entrada/saída com validação  
+> - estrutura modular e organizada  
+
+```
+📌 linguagem: C++
+🧠 foco: lógica + persistência de dados
+🎯 aplicação: acadêmica / prática
+```
 
 ---
 
-## 📫 Contato
+## 📊 stats
 
-- 📧 Email: **arthur.martins11@outlook.com**
+![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v7m0k&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v7m0k&layout=compact&theme=tokyonight)
 
 ---
 
-> “Não se trata apenas de codar. É sobre resolver problemas reais com criatividade e lógica.” 💡
+## 📡 contato
+
+📧 arthur.martins11@outlook.com  
+
+---
+
+> "o terminal não perdoa. ou roda, ou falha." 🕶️
