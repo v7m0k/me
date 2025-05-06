@@ -1,14 +1,4 @@
 ```
-           ________               ______   __       
-          /        |             /      \ /  |      
- __     __$$$$$$$$/_____  ____  /$$$$$$  |$$ |   __ 
-/  \   /  |   /$$//     \/    \ $$$  \$$ |$$ |  /  |
-$$  \ /$$/   /$$/ $$$$$$ $$$$  |$$$$  $$ |$$ |_/$$/ 
- $$  /$$/   /$$/  $$ | $$ | $$ |$$ $$ $$ |$$   $$<  
-  $$ $$/   /$$/   $$ | $$ | $$ |$$ \$$$$ |$$$$$$  \ 
-   $$$/   /$$/    $$ | $$ | $$ |$$   $$$/ $$ | $$  |
-    $/    $$/     $$/  $$/  $$/  $$$$$$/  $$/   $$/ 
-                                                    
 :: v7m0k :: CompSci - UNIFAI :: C++ | PHP | C#
 ```
 
@@ -23,6 +13,7 @@ $$  \ /$$/   /$$/ $$$$$$ $$$$  |$$$$  $$ |$$ |_/$$/
 ![MySQL](https://img.shields.io/badge/-MySQL-111?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-111?style=flat-square&logo=git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-VS-111?style=flat-square&logo=visual-studio&logoColor=white)
+![Terminal](https://img.shields.io/badge/-CLI-111?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
