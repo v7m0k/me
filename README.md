@@ -42,8 +42,7 @@ Esse projeto mostra domínio da linguagem C++ aplicado a problemas reais, ideal 
 
 ## 📫 Contato
 
-- 📧 Email: **seuemail@exemplo.com**
-- 💼 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- 📧 Email: **arthur.martins11@outlook.com**
 
 ---
 
